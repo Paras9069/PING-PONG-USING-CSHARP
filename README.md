@@ -45,4 +45,5 @@ Enjoy the game!
 Use arrow keys (↑ and ↓) to move the paddle.
 
 Score points by bouncing the ball past the opponent.
+![Game Preview](assets/ball.png)
 
