@@ -1,0 +1,17 @@
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.Form1.resources
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.Properties.Resources.resources
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.csproj.GenerateResource.cache
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.AssemblyInfoInputs.cache
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.AssemblyInfo.cs
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.csproj.CoreCompileInputs.cache
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\bin\Debug\net8.0-windows\PingPongbyrahul.exe
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\bin\Debug\net8.0-windows\PingPongbyrahul.deps.json
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\bin\Debug\net8.0-windows\PingPongbyrahul.runtimeconfig.json
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\bin\Debug\net8.0-windows\PingPongbyrahul.dll
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\bin\Debug\net8.0-windows\PingPongbyrahul.pdb
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.dll
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\refint\PingPongbyrahul.dll
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.pdb
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\PingPongbyrahul.genruntimeconfig.cache
+C:\Users\enqui\source\repos\PingPongbyrahul\PingPongbyrahul\obj\Debug\net8.0-windows\ref\PingPongbyrahul.dll
